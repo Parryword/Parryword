@@ -12,6 +12,13 @@ I'm a software engineering student who loves to create and learn new things. I'm
 - **PHP**: I have experience in using PHP for creating dynamic web pages and interacting with databases.
 - **LaTeX**: I have experience in using LaTeX for writing academic papers, reports and presentations. I also know how to use packages like BibTeX for formatting references.
 
+## Projects 🚀
+
+Here are some of the projects that I have worked on or contributed to:
+
+- [The Sword Clash](https://github.com/Parryword/The-Sword-Clash): A game that does something fun using Unity and C#.
+- [Shopping website](https://github.com/Parryword/Shopping-website): A web application that does something useful using PHP.
+  
 ## Contact 📫
 
 You can reach me at:
