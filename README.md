@@ -18,3 +18,8 @@ Here are some of the projects that I have worked on or contributed to:
 
 - [The Sword Clash](https://github.com/Parryword/The-Sword-Clash): A game that does something fun using Unity and C#.
 - [Shopping website](https://github.com/Parryword/Shopping-website): A web application that does something useful using PHP.
+
+## Contact
+- Name: Yiğit Efe İ. 
+- E-mail: yigit.efe@std.ieu.edu.tr
+- Institution: Izmir University of Economics
