@@ -20,6 +20,5 @@ Here are some of the projects that I have worked on or contributed to:
 - [Shopping website](https://github.com/Parryword/Shopping-website): A web application that does something useful using PHP.
 
 ## Contact
-- Name: Yiğit Efe İ. 
 - E-mail: yigit.efe@std.ieu.edu.tr
 - Institution: Izmir University of Economics
